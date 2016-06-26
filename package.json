@@ -1,0 +1,24 @@
+{
+  "name": "twitrespond",
+  "version": "1.0.0",
+  "description": "spam == great marketing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominickmalzone/twitterAutoRespond.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominickmalzone/twitterAutoRespond/issues"
+  },
+  "homepage": "https://github.com/dominickmalzone/twitterAutoRespond#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "twitter": "^1.3.0"
+  }
+}
